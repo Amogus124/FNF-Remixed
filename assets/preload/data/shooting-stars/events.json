@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "softWall",
+		"player1": "softbf",
+		"player2": "softpico",
+		"player3": null,
+		"events": [
+			[
+				190178.571428571,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				190285.714285714,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						"25"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Alt Idle Animation",
+						"1",
+						"-alt"
+					]
+				]
+			],
+			[
+				193714.285714285,
+				[
+					[
+						"Alt Idle Animation",
+						"0",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shooting Stars"
+	}
+}

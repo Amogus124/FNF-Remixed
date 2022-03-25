@@ -1,0 +1,67 @@
+{
+	"storyName": "The Assassin and His Goons",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pico Remixed",
+			"remixedpico",
+			[
+				106,
+				255,
+				73
+			]
+		],
+		[
+			"Philly Nice Remixed",
+			"remixedpico",
+			[
+				106,
+				255,
+				73
+			]
+		],
+		[
+			"Blammed Remixed",
+			"remixedpico",
+			[
+				106,
+				255,
+				73
+			]
+		],
+		[
+			"Love Letter",
+			"remixednene",
+			[
+				255,
+				33,
+				133
+			]
+		],
+		[
+			"Dumb Cigar",
+			"remixeddarnell",
+			[
+				255,
+				100,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pico the Assassin"
+}

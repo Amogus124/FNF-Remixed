@@ -1,0 +1,40 @@
+{
+	"storyName": "Ligma Nards Lmao",
+	"difficulties": "Mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Lo-Fight Mania",
+			"remixedwhitty",
+			[
+				55,
+				40,
+				80
+			]
+		],
+		[
+			"Ballistic Lilac Mix",
+			"ballswhittyremixed",
+			[
+				255,
+				0,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Lilac Mode"
+}

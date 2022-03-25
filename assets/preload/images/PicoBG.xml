@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PicoBG.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DanceLeft0000" x="5" y="5" width="386" height="460" frameX="-1" frameY="-28" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0001" x="5" y="5" width="386" height="460" frameX="-1" frameY="-28" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0002" x="406" y="5" width="387" height="459" frameX="0" frameY="-29" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0003" x="406" y="5" width="387" height="459" frameX="0" frameY="-29" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0004" x="808" y="5" width="386" height="462" frameX="-1" frameY="-27" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0005" x="808" y="5" width="386" height="462" frameX="-1" frameY="-27" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0006" x="1209" y="5" width="382" height="469" frameX="-7" frameY="-20" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0007" x="1606" y="5" width="381" height="484" frameX="-8" frameY="-5" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0008" x="1606" y="5" width="381" height="484" frameX="-8" frameY="-5" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0009" x="1606" y="5" width="381" height="484" frameX="-8" frameY="-5" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0010" x="5" y="504" width="381" height="487" frameX="-8" frameY="-2" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0011" x="5" y="504" width="381" height="487" frameX="-8" frameY="-2" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0012" x="5" y="504" width="381" height="487" frameX="-8" frameY="-2" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0013" x="401" y="504" width="380" height="489" frameX="-9" frameY="0" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceLeft0014" x="401" y="504" width="380" height="489" frameX="-9" frameY="0" frameWidth="389" frameHeight="489"/>
+	<SubTexture name="DanceRight0000" x="796" y="504" width="377" height="492" frameX="-6" frameY="-1" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0001" x="796" y="504" width="377" height="492" frameX="-6" frameY="-1" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0002" x="1188" y="504" width="377" height="492" frameX="-6" frameY="-1" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0003" x="1188" y="504" width="377" height="492" frameX="-6" frameY="-1" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0004" x="1580" y="504" width="377" height="493" frameX="-6" frameY="0" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0005" x="1580" y="504" width="377" height="493" frameX="-6" frameY="0" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0006" x="5" y="1012" width="378" height="492" frameX="-4" frameY="-1" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0007" x="398" y="1012" width="380" height="489" frameX="-2" frameY="-4" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0008" x="398" y="1012" width="380" height="489" frameX="-2" frameY="-4" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0009" x="398" y="1012" width="380" height="489" frameX="-2" frameY="-4" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0010" x="793" y="1012" width="381" height="487" frameX="0" frameY="-6" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0011" x="793" y="1012" width="381" height="487" frameX="0" frameY="-6" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0012" x="793" y="1012" width="381" height="487" frameX="0" frameY="-6" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0013" x="1189" y="1012" width="380" height="486" frameX="-1" frameY="-7" frameWidth="383" frameHeight="493"/>
+	<SubTexture name="DanceRight0014" x="1189" y="1012" width="380" height="486" frameX="-1" frameY="-7" frameWidth="383" frameHeight="493"/>
+</TextureAtlas>

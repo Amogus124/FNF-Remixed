@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShubBump.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BB Title Bump0000" x="10" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0001" x="10" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0002" x="421" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0003" x="421" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0004" x="421" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0005" x="421" y="10" width="391" height="669" frameX="-170" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0006" x="832" y="10" width="386" height="669" frameX="-174" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0007" x="832" y="10" width="386" height="669" frameX="-174" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0008" x="1238" y="10" width="382" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0009" x="1238" y="10" width="382" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0010" x="1640" y="10" width="387" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0011" x="1640" y="10" width="387" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0012" x="2047" y="10" width="384" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0013" x="2451" y="10" width="383" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0014" x="2451" y="10" width="383" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0015" x="2854" y="10" width="441" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0016" x="2854" y="10" width="441" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0017" x="3315" y="10" width="444" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0018" x="3315" y="10" width="444" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0019" x="10" y="699" width="444" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0020" x="10" y="699" width="444" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0021" x="474" y="699" width="425" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0022" x="474" y="699" width="425" height="669" frameX="-176" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0023" x="919" y="699" width="386" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0024" x="919" y="699" width="386" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0025" x="1325" y="699" width="382" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0026" x="1325" y="699" width="382" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0027" x="1727" y="699" width="382" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0028" x="2451" y="10" width="383" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+	<SubTexture name="BB Title Bump0029" x="2451" y="10" width="383" height="669" frameX="-175" frameY="120" frameWidth="450" frameHeight="669"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"storyName": "Hate the Player, and the Game Bitches",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Senpai Remixed",
+			"remixedsenpai",
+			[
+				255,
+				160,
+				73
+			]
+		],
+		[
+			"Roses Remixed",
+			"remixedangrysenpai",
+			[
+				255,
+				100,
+				73
+			]
+		],
+		[
+			"Thorns Remixed",
+			"remixedspirit",
+			[
+				255,
+				0,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Balls"
+}

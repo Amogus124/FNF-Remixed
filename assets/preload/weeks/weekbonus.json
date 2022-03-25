@@ -1,0 +1,49 @@
+{
+	"storyName": "Whitty Remixed Returned",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lo-Fight Remixed",
+			"remixedwhitty",
+			[
+				106,
+				93,
+				133
+			]
+		],
+		[
+			"Overhead Remixed",
+			"remixedwhitty",
+			[
+				106,
+				93,
+				133
+			]
+		],
+		[
+			"Ballistic Remixed",
+			"ballswhittyremixed",
+			[
+				255,
+				0,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WRR"
+}

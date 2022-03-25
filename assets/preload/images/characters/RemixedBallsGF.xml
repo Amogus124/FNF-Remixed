@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGF.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BallisticSadness0000" x="10" y="10" width="296" height="543"/>
+	<SubTexture name="BallisticSadness0001" x="10" y="10" width="296" height="543"/>
+	<SubTexture name="BallisticSadness0002" x="316" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0003" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0004" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0005" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0006" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0007" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0008" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0009" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0010" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0011" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0012" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0013" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0014" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0015" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0016" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0017" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0018" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0019" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0020" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0021" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0022" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0023" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0024" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0025" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0026" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0027" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0028" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0029" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0030" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0031" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0032" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0033" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0034" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0035" x="928" y="10" width="296" height="532" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0036" x="928" y="10" width="296" height="532" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0037" x="316" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0038" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0039" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0040" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0041" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0042" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0043" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0044" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0045" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0046" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0047" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0048" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0049" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0050" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0051" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0052" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0053" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0054" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0055" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0056" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0057" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0058" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0059" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0060" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0061" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0062" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0063" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0064" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0065" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0066" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0067" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0068" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0069" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0070" x="928" y="10" width="296" height="532" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0071" x="928" y="10" width="296" height="532" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0072" x="316" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0073" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0074" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0075" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0076" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0077" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0078" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="BallisticSadness0079" x="622" y="10" width="296" height="530" frameX="0" frameY="-11" frameWidth="296" frameHeight="543"/>
+	<SubTexture name="GF Bopping0000" x="1234" y="10" width="302" height="515" frameX="0" frameY="-20" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0001" x="1234" y="10" width="302" height="515" frameX="0" frameY="-20" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0002" x="1546" y="10" width="302" height="511" frameX="0" frameY="-22" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0003" x="10" y="563" width="302" height="511" frameX="0" frameY="-22" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0004" x="322" y="563" width="300" height="514" frameX="-2" frameY="-19" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0005" x="632" y="563" width="300" height="514" frameX="-2" frameY="-19" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0006" x="942" y="563" width="299" height="520" frameX="-7" frameY="-13" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0007" x="1251" y="563" width="296" height="531" frameX="-30" frameY="-2" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0008" x="1251" y="563" width="296" height="531" frameX="-30" frameY="-2" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0009" x="1251" y="563" width="296" height="531" frameX="-30" frameY="-2" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0010" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0011" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0012" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0013" x="10" y="1106" width="296" height="533" frameX="-32" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0014" x="10" y="1106" width="296" height="533" frameX="-32" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0015" x="316" y="1106" width="291" height="526" frameX="-51" frameY="-9" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0016" x="316" y="1106" width="291" height="526" frameX="-51" frameY="-9" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0017" x="617" y="1106" width="289" height="523" frameX="-52" frameY="-10" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0018" x="916" y="1106" width="289" height="523" frameX="-52" frameY="-10" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0019" x="1215" y="1106" width="290" height="526" frameX="-48" frameY="-7" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0020" x="1515" y="1106" width="290" height="526" frameX="-48" frameY="-7" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0021" x="10" y="1649" width="294" height="529" frameX="-42" frameY="-4" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0022" x="314" y="1649" width="296" height="533" frameX="-32" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0023" x="314" y="1649" width="296" height="533" frameX="-32" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0024" x="314" y="1649" width="296" height="533" frameX="-32" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0025" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0026" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0027" x="1557" y="563" width="296" height="533" frameX="-30" frameY="0" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0028" x="620" y="1649" width="296" height="532" frameX="-28" frameY="-1" frameWidth="342" frameHeight="535"/>
+	<SubTexture name="GF Bopping0029" x="620" y="1649" width="296" height="532" frameX="-28" frameY="-1" frameWidth="342" frameHeight="535"/>
+</TextureAtlas>

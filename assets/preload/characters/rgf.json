@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				-119,
+				-271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "Sad"
+		},
+		{
+			"offsets": [
+				-119,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-280
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				16,
+				17,
+				18,
+				19,
+				20,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-280
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				612,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-119,
+				-266
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Cheer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RemixedGF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "remixedgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

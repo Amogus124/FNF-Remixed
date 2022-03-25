@@ -1,0 +1,32 @@
+{
+	"storyName": "Image Gallery",
+	"difficulties": "Check",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"gallery",
+			"gallery",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

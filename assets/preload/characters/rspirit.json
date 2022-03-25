@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry Senpai Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				30
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Angry Senpai UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Angry Senpai LEFT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Angry Senpai RIGHT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry Senpai DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RemixedSpirit",
+	"position": [
+		150,
+		440
+	],
+	"healthicon": "remixedspirit",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		110
+	],
+	"camera_position": [
+		-180,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

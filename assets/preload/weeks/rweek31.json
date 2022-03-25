@@ -1,0 +1,41 @@
+{
+	"storyName": "Pico Super Saiyan",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "rweek3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Old Blammed Remixed",
+			"remixedpico",
+			[
+				0,
+				255,
+				93
+			]
+		],
+		[
+			"High Remixed",
+			"mom",
+			[
+				255,
+				0,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Pico Balls"
+}

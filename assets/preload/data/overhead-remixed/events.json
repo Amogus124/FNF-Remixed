@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "backAlley",
+		"player1": "rbf",
+		"player2": "rwhitty",
+		"player3": null,
+		"events": [
+			[
+				166.666666666667,
+				[
+					[
+						"Image Appearance2",
+						"overheadkappa",
+						"4"
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Toggle Strums Visibility",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				4166.66666666667,
+				[
+					[
+						"Toggle Strums Visibility",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				4333.33333333333,
+				[
+					[
+						"Toggle Strums Visibility",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Toggle Strums Visibility",
+						"3",
+						"1"
+					]
+				]
+			],
+			[
+				4666.66666666667,
+				[
+					[
+						"Toggle Strums Visibility",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				4833.33333333333,
+				[
+					[
+						"Toggle Strums Visibility",
+						"5",
+						"1"
+					]
+				]
+			],
+			[
+				5000,
+				[
+					[
+						"Toggle Strums Visibility",
+						"6",
+						"1"
+					]
+				]
+			],
+			[
+				5166.66666666667,
+				[
+					[
+						"Toggle Strums Visibility",
+						"7",
+						"1"
+					]
+				]
+			],
+			[
+				64666.6666666667,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.08",
+						"0.1, 0.08"
+					]
+				]
+			],
+			[
+				65166.6666666667,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.08",
+						"0.1, 0.08"
+					]
+				]
+			],
+			[
+				107333.333333333,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.08",
+						"0.1, 0.08"
+					]
+				]
+			],
+			[
+				107833.333333333,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.08",
+						"0.1, 0.08"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "rgf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Overhead Remixed"
+	}
+}

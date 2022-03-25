@@ -1,0 +1,27 @@
+Mod Creators
+Kappa Nerd::kappa-nerd::Creator of the Mod, Artist, Background Artist, Composer, Charter, Coder::https://twitter.com/KappaNerd::0xFF00008B
+Huisti::huisti::Animator::https://twitter.com/Huisti785::0xFF0000FF
+BruhMomentLilac::lilac::Secondary Composer, Charter::https://twitter.com/BruhMomentLilac::0xFFB50BE0
+
+Mod Supporters
+Brandonnnnx::brandonnnnx::Revamped Pixel Remixed BF::https://twitter.com/XxBrandonFireX::0xFF8B0000
+
+Special Thanks
+i-winxd::iwinxd::Kade Engine Accuracy, Score Text, and MS Counter::https://github.com/ShadowMario/FNF-PsychEngine/discussions/4411::0xFFFFD18D
+HaxLua::haxlua::Judgement Info::https://github.com/ShadowMario/FNF-PsychEngine/discussions/3670::0xFFFF8C00
+TerrorGaming::terror::Results Screen::https://youtube.com/channel/UC4emUAmSwUpEi7Yr94Y6FTw::0xFF0C81C9
+Matt-Sudo-Jpg::matt::Made the Gallery Room .LUA Script::https://github.com/ShadowMario/FNF-PsychEngine/discussions/6367::0xFFAF66CE
+Ninja-Lexi::ninjalexi::Recreated Base Week 6 Stage in .LUA::https://www.youtube.com/watch?v=LAY2j4QJKII&t=0s::0xFF2D81FF
+Tamacoochi and Soft Mod Team::tama::Created FNF Soft Mod::https://gamebanana.com/mods/312803::0xFFFF2D88
+
+Original Vs. Whitty Team
+Sock.clip::sock::Creator of Whitty, Main Artist and Animator::https://www.instagram.com/sock.clip/?hl=en::0xFF9DD9F3
+Nate Anim8::nateanim8::Project lead, Chart Cleanup, Secondary Artist, made Hungry::https://www.youtube.com/channel/UCOSGaPr3d8k3SEZ27YzxGLg::0xFF800080
+bbpanzu::bb-panzu::Main Coder, charted Underground and another fun song :)::https://twitter.com/bbsub3::0xFF58A25D
+KadeDev::kade::Original Vs Whitty Coder::https://twitter.com/kade0912::0xFF99C68E
+juliaa::juliaa::Main Charter::https://twitter.com/juliaaFNF::0xFF00CEF1
+The Only Volume::volume::Assistant Charter::https://twitter.com/theonlyvolume::0xFFFFAA33
+El Senor Beast::beast::Secondary Coder::https://twitter.com/Patricio_B51::0xFFFFBA00
+tictacto::tacto::Created the trailer theme::https://twitter.com/tictactuh_::0xFF008B8B
+8-Bit::8-bit::Main Playtester::https://twitter.com/8BitNostalgia_::0xFF896129
+SiIvaGunner::siiva::Only uploads high quality video game rips.::http://youtube.com/c/SiIvaGunner::0xFF0070EC

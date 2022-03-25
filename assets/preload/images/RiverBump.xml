@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RiverBump.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="River Title Bump0000" x="10" y="10" width="792" height="582" frameX="90" frameY="-68" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0001" x="10" y="10" width="792" height="582" frameX="90" frameY="-68" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0002" x="822" y="10" width="792" height="581" frameX="90" frameY="-69" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0003" x="822" y="10" width="792" height="581" frameX="90" frameY="-69" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0004" x="822" y="10" width="792" height="581" frameX="90" frameY="-69" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0005" x="822" y="10" width="792" height="581" frameX="90" frameY="-69" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0006" x="1634" y="10" width="792" height="584" frameX="90" frameY="-66" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0007" x="1634" y="10" width="792" height="584" frameX="90" frameY="-66" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0008" x="2446" y="10" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0009" x="2446" y="10" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0010" x="3258" y="10" width="792" height="588" frameX="90" frameY="-61" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0011" x="3258" y="10" width="792" height="588" frameX="90" frameY="-61" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0012" x="10" y="618" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0013" x="822" y="618" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0014" x="822" y="618" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0015" x="1634" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0016" x="1634" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0017" x="2446" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0018" x="2446" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0019" x="3258" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0020" x="3258" y="618" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0021" x="10" y="1226" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0022" x="10" y="1226" width="792" height="588" frameX="90" frameY="-60" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0023" x="822" y="1226" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0024" x="822" y="1226" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0025" x="1634" y="1226" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0026" x="1634" y="1226" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0027" x="2446" y="1226" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0028" x="822" y="618" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+	<SubTexture name="River Title Bump0029" x="822" y="618" width="792" height="587" frameX="90" frameY="-62" frameWidth="792" frameHeight="590"/>
+</TextureAtlas>

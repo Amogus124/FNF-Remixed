@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "backAlley2",
+		"player1": "rbf",
+		"player2": "rgf",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Strums Visibility",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				147.058823529412,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				294.117647058824,
+				[
+					[
+						"Image Appearance2",
+						"waitingkappa",
+						"4"
+					]
+				]
+			],
+			[
+				2352.94117647059,
+				[
+					[
+						"Toggle Strums Visibility",
+						"5",
+						"1"
+					]
+				]
+			],
+			[
+				4705.88235294118,
+				[
+					[
+						"Toggle Strums Visibility",
+						"6",
+						"1"
+					]
+				]
+			],
+			[
+				7058.82352941176,
+				[
+					[
+						"Toggle Strums Visibility",
+						"7",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "rgf",
+		"bpm": 102,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Waiting"
+	}
+}
